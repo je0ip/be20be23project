@@ -9,7 +9,6 @@ tasks based on specific details, receive reminders for upcoming due dates,
 and access a built-in Pomodoro timer for better productivity. 
 
 # Outline:
-![](https://cdn.glitch.global/4298e60a-9d2b-4d99-ada7-db169930c9b6/websiteOutline.PNG?v=1731989205716)
 
 # Description of the JS Incorporation:
 In developing our website, JS will be used to manipulate HTML elements 
@@ -27,9 +26,5 @@ f values that will be used in other parts of the program. Using JS, we will also
 we can iterate various commands and to traverse through arrays.
 
 # Wireframe:
-
-![](https://cdn.glitch.global/4298e60a-9d2b-4d99-ada7-db169930c9b6/wireframe1.png?v=1731957594938)
-![](https://cdn.glitch.global/4298e60a-9d2b-4d99-ada7-db169930c9b6/wireframe2.png?v=1731957604975)
-![](https://cdn.glitch.global/4298e60a-9d2b-4d99-ada7-db169930c9b6/wireframe3.png?v=1731957611973)
 
 
